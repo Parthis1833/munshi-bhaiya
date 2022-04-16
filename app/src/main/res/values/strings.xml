@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">testing1</string>
+    <string name="user1">User1</string>
+    <string name="user2">User2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_from">Search From</string>
+    <string name="serach">Serach</string>
+    <string name="from">From</string>
+    <string name="too">Too</string>
+</resources>
